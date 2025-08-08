@@ -133,7 +133,8 @@ body{
 
 .signature-box {
   text-align: right;
-  margin-top: 100px;
+  margin-top: -35px;
+  
 }
 
 .line-over-name {
@@ -147,7 +148,7 @@ body{
 .line-over-name::before {
   content: "";
   position: absolute;
-  top: 0;
+  top: 0px;
   left: 0;
   width: 100%;
   border-top: 1.4px solid black;
@@ -176,4 +177,17 @@ body{
         font-size: 20px;
 
 
+}
+.ashish {
+  font-size: 20px;
+  font-family: Alex Brush, cursive;
+  margin-left: 390px;
+  text-align: center;
+  border: #fffefe ;
+  width: 90px;
+  background-color: #d9d9d9;
+ 
+  
+ 
+  
 }
